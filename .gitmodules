@@ -1,0 +1,48 @@
+[submodule "zsh/.oh-my-zsh"]
+	path = zsh/.oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh
+[submodule "tmux/.tmux/plugins/tmux"]
+	path = tmux/.tmux/plugins/tmux
+	url = https://github.com/catppuccin/tmux
+[submodule "tmux/.tmux/plugins/tmux-gruvbox"]
+	path = tmux/.tmux/plugins/tmux-gruvbox
+	url = https://github.com/egel/tmux-gruvbox
+[submodule "tmux/.tmux/plugins/tmux-onedark-theme"]
+	path = tmux/.tmux/plugins/tmux-onedark-theme
+	url = https://github.com/odedlaz/tmux-onedark-theme
+[submodule "tmux/.tmux/plugins/tpm"]
+	path = tmux/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "tmux/.tmux/plugins/vim-tmux-navigator"]
+	path = tmux/.tmux/plugins/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule "tmux/.tmux/plugins/tmux-sensible"]
+	path = tmux/.tmux/plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule "powerlevel10k"]
+	path = powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k
+[submodule "zsh/powerlevel10k"]
+	path = zsh/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "zsh/.zsh_plugins/powerlevel10k"]
+	path = zsh/.zsh_plugins/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "zsh/.zsh_plugins/zsh-autosuggestions"]
+	path = zsh/.zsh_plugins/zsh-autosuggestions
+	url = git@github.com:zsh-users/zsh-autosuggestions.git
+[submodule "zsh/.zsh_plugins/zsh-syntax-highlighting"]
+	path = zsh/.zsh_plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "zsh/plugins/zsh-no-PS2"]
+	path = zsh/plugins/zsh-no-PS2
+	url = https://github.com/romkatv/zsh-no-ps2.git
+[submodule "zsh/plugins/powerlevel10k"]
+	path = zsh/plugins/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k
+[submodule "zsh/plugins/zsh-syntax-highlighting"]
+	path = zsh/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "zsh/plugins/zsh-autosuggestions"]
+	path = zsh/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
