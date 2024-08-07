@@ -2,7 +2,7 @@
 
 ## 1st step:
 ### To clone all repositores:
-    git clone --recurse-submodules git@github.com:miguelsrmv/.dotfiles.git
+    git clone --recurse-submodules https://github.com/TiagoMartins14/.dotfiles.git
 ### If main repository already exists
     git submodule update --init --recursive
 
