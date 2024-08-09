@@ -65,3 +65,13 @@ source ~/.dotfiles/zsh/plugins/zsh-no-PS2/zsh-no-ps2.plugin.zsh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+#Alias
+##Git
+alias gst='git status'
+alias ga='git add '
+alias gc='git commit -m'
+alias gp='git push'
+alias gpl='git pull'
+##input
+alias cl='clear'
