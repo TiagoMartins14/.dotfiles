@@ -37,7 +37,7 @@ return {
 			},
 			formatters = {
 				["clang-format"] = {
-					prepend_args = { "-style", "{BasedOnStyle: GNU, UseTab: Always, IndentWidth: 4, TabWidth: 4}" },
+					prepend_args = { "-style", "{BasedOnStyle: Google, UseTab: Always, IndentWidth: 4, TabWidth: 4}" },
 				},
 			},
 		},
